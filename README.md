@@ -16,7 +16,7 @@ A disciplina explora os principais conceitos teóricos e práticos dos diferente
 
 ### 🧠 Paradigmas Abordados
 - [x] **Imperativo & Estruturado** *(ex: BASIC, C)*
-- [x] **Orientado a Objetos (POO)** *(ex: C++, C#, Python, Ruby, JavaScript)*
+- [x] **Orientado a Objetos (POO)** *(ex: C++, C#, Python, Ruby, JavaScript, Java)*
 - [ ] **Funcional** *(ex: Haskell, Lisp, Scheme)*
 - [ ] **Lógico / Declarativo** *(ex: Prolog)*
 - [x] **Multiparadigma & Modernas** *(ex: Rust, Go, Python)*
@@ -36,5 +36,6 @@ A disciplina explora os principais conceitos teóricos e práticos dos diferente
 | **Relatório 8** | Python | Programação Orientada a Objetos (POO) |
 | **Relatório 9** | Ruby | Programação Orientada a Objetos (POO) |
 | **Relatório 10** | JavaScript | Programação Orientada a Objetos (POO) |
+| **Relatório 11** | Java | Programação Orientada a Objetos (POO) |
 
 ---
